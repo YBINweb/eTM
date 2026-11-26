@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Tutte le pagine HTML contengono il meta robots noindex, nofollow.
+# Il crawling resta consentito: se fosse bloccato, i motori di ricerca non leggerebbero il noindex.

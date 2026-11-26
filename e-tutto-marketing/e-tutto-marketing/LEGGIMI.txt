@@ -1,0 +1,10 @@
+È TUTTO MARKETING — sito statico
+================================
+Contenuto: homepage, 5 articoli (2 di Caterina Marano su Instagram e TikTok, 3 di Giuseppe Ippolito come autore ospite), pagina Note legali (note legali + privacy + cookie).
+Anteprima: apri index.html nel browser. Nessun font o risorsa esterna, nessun cookie.
+Ogni articolo è firmato a piè di pagina dal rispettivo autore.
+
+NON INDICIZZAZIONE
+Ogni pagina ha meta robots "noindex, nofollow, noarchive, nosnippet, noimageindex" (+ googlebot noindex).
+robots.txt consente la scansione di proposito: se la bloccasse, Google non leggerebbe il noindex.
+Il sito non è privato: chi conosce l'indirizzo può aprirlo. Non pubblicare l'URL in luoghi pubblici.
